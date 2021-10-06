@@ -1,0 +1,15 @@
+{
+    "database": {
+        "host": "localhost",
+        "password": "12345",
+        "port": 8080,
+        "user": "root"
+    },
+    "files": {
+        "errorLog": "./log/errorLog.log",
+        "log": [
+            "./log/app.log",
+            "./log/appRestart.log"
+        ]
+    }
+}

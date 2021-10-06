@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+    <note>
+      <to>Tove</to>
+      <from>Jani</from>
+      <heading>Reminder</heading>
+      <body>Don't forget me this weekend!</body>
+    </note>
+
+    <result success="false">
+        <message> Cannot open remote file "h://home/users/Tony/whatever". </message>
+        <errorCode> 2 </errorCode>
+        <requestCode> 3 </requestCode>
+    </result>
+</document>

@@ -1,0 +1,12 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 3030,
+        "user": "root",
+        "password": "12345"
+    },
+    "files": {
+        "log": "./log/app.log",
+        "errorLog": "./log/errorLog.log"
+    }
+}
