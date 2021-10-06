@@ -1,3 +1,2 @@
 # learnPython
-notes taken while learning python programming
-+ code
+notes taken while learning python programming, code, etc
